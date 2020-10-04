@@ -1,0 +1,27 @@
+ Input parameters:           
+ ------------------------------------------------
+ Lower boundary               :      -5.000
+ Upper boundary               :       5.000
+ Step Width                   :       0.100
+ Precision                    :       0.00000010
+ Derivation Step Width        :       0.100
+ Maximum Number of Iteration  :     100
+ Maximum Number of Roots      :      10
+ Precision of derivative      :       0.00001000
+ ------------------------------------------------
+ Output      :         
+ ------------------------------------------------
+ Total no of roots found             :  10
+ ------------------------------------------------
+       n     root of f(x)    
+ -----------------------------------------------
+      1     -4.212
+      2     -3.927
+      3      0.785
+      4     -2.356
+      5     -1.426
+      6      2.356
+      7      1.426
+      8     -0.785
+      9      3.927
+     10      4.212

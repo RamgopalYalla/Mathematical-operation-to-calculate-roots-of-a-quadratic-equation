@@ -1,0 +1,20 @@
+# Input Parameters
+# ----------------------------------
+# Lower bound               : lb
+# Upper bound               : ub
+# Precision                 : eps
+# Max iterations            : maxitx
+# Max no. of roots to find  : maxroots
+# Step width                : sw
+# Step width (derivative)   : h
+# Precision for derivative  : epsd
+# ----------------------------------
+
+lb      -5.
+ub       5.
+eps      1.e-7
+maxitx   100
+maxroots 10
+sw       0.1
+h        0.1
+epsd     1.e-5
